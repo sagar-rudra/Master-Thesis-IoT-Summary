@@ -15,7 +15,7 @@ The work focuses on the design and implementation of an **ESP32-based wireless I
 ## Repository contents
 - `docs/`: short documentation and notes  
 - `images/`: selected figures and photos  
-- `code/`: (optional) selected non-confidential firmware examples  
+- `code/`: selected non-confidential firmware examples  
 
 ## Notes
 The full thesis document and complete source code are not publicly shared.  
