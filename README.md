@@ -5,6 +5,9 @@ This repository provides a high-level summary of my Master’s thesis completed 
 
 ## Project overview
 The work focuses on the design and implementation of an **ESP32-based wireless IoT device** integrating a **knitted textile antenna** for Bluetooth and Wi-Fi communication in wearable environments.
+## System overview
+![System block diagram](images/system-block-diagram.png)
+
 
 ## Key highlights
 - Implemented embedded firmware for sensor data acquisition and wireless data transfer  
